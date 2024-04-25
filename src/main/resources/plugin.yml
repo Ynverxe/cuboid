@@ -1,0 +1,4 @@
+name: cuboid
+version: '${version}'
+main: com.github.ynverxe.cuboid.Cuboid
+api-version: '1.13'

@@ -1,0 +1,11 @@
+[versions]
+spigotapi = "1.13-R0.1-SNAPSHOT"
+modulator = "0.1.0-indev"
+kerberos = "0.1.0-indev"
+annotations = "24.0.0"
+
+[libraries]
+spigotapi = { module = "org.spigotmc:spigot-api", version.ref = "spigotapi" }
+modulator = { module = "com.github.ynverxe:modulator", version.ref = "modulator" }
+kerberos = { module = "com.github.ynverxe:kerberos-universal", version.ref = "kerberos" }
+annotations = { module = "org.jetbrains:annotations", version.ref = "annotations"}

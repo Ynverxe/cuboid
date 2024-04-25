@@ -1,0 +1,6 @@
+[submodule "modulator"]
+	path = dependencies/modulator
+	url = https://github.com/Ynverxe/modulator
+[submodule "kerberos"]
+	path = dependencies/kerberos
+	url = https://github.com/Ynverxe/kerberos
